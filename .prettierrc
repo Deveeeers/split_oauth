@@ -1,0 +1,30 @@
+{
+    "overrides": [
+      {
+        "files": "*.js",
+        "options": {
+          "printWidth": 180,
+          "singleQuote": true,
+          "proseWrap": "preserve",
+          "endOfLine": "auto",
+          "tabWidth": 2,
+          "useTabs": false,
+          "trailingComma": "all",
+          "bracketSpacing": true
+        }
+      },
+      {
+        "files": "*.cjs",
+        "options": {
+          "printWidth": 180,
+          "singleQuote": true,
+          "proseWrap": "preserve",
+          "endOfLine": "auto",
+          "tabWidth": 2,
+          "useTabs": false,
+          "trailingComma": "all",
+          "bracketSpacing": true
+        }
+      }
+    ]
+  }
